@@ -108,7 +108,7 @@ export const ChapterVideoForm = ({
             }}
           ></FileUpload>
           <div className="text-xs text-muted-foreground mt-4">
-            Upload this chapter's video
+            Upload video for this chapter
           </div>
         </div>
       )}
